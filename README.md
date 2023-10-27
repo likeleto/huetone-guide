@@ -11,9 +11,9 @@ https://huetone.ardov.me/
 4. Экспорт и импорт палитры через JSON
 5. Возможность поделится с помощью URL
 ## Обзор интерфейса
-https://www.youtube.com/watch?v=31mJMMYoKvU 
+[https://www.youtube.com/watch?v=31mJMMYoKvU](https://youtu.be/31mJMMYoKvU)
 ## Как производить расчеты и изменения?  
-https://www.youtube.com/watch?v=31mJMMYoKvU
+[https://www.youtube.com/watch?v=31mJMMYoKvU](https://youtu.be/31mJMMYoKvU?t=76)
 ## Автоматизация импорта и экспорта через Json
 Важно отметить что Huetone поддерживает только палитры с одинаковым числом плотностей цвета.
 Поэтому убедитесь что число плотностей цвета совпадает. Как вариант добавить пустышки.
